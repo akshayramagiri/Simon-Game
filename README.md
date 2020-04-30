@@ -15,4 +15,17 @@ Continue playing as long as you can repeat each sequence of sig- nals correctly.
 If you fail to repeat a sequence exactly, Simon responds with a "RAZZ" sound. This means you've lost, and the sequence of signals ends.
 
 
-![Simon game](https://user-images.githubusercontent.com/55799769/80729646-2ab8e580-8b26-11ea-9786-55f63ff631b8.PNG)
+              ![Simon game](https://user-images.githubusercontent.com/55799769/80729646-2ab8e580-8b26-11ea-9786-55f63ff631b8.PNG)
+             
+             
+# Built With
+
+* [JavaScript](https://www.javascript.com/) - JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.
+* [HTML](https://html.com/) - Hypertext Markup Language. It allows the user to create and structure sections, paragraphs, headings, links, and blockquotes for web pages and applications.
+* [jQuery](https://jquery.com/) - The purpose of jQuery is to make it much easier to use JavaScript on your website. 
+* Css - Cascading style sheets are used to format the layout of Web pages. They can be used to define text styles, table sizes, and other aspects of Web pages
+
+# Application
+
+This website is made by using [Atom](https://atom.io/) code editor easy to use and customizable
+
