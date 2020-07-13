@@ -2,6 +2,8 @@
 
 This is about game of memory skill.
 
+# [Live Demo](https://16c5t.csb.app/).  
+
 # How does the Simon game works?
 
 Press any key to starts the game. Simon will give the first signal. Repeat the signal by clicking the same color.
